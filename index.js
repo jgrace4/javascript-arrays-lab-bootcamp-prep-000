@@ -27,6 +27,5 @@ function prependKitten(Ralph) {
 }
 
 function removeLastKitten(Garfield) {
-  const fewerKittens = [kittens.slice(0, 2)]
-  return fewerKittens
+  return const fewerKittens = [kittens.slice(0, 2)]
 }
