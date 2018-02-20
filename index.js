@@ -30,3 +30,8 @@ function removeLastKitten(Garfield) {
   const fewerKittens = kittens.slice(0, 2)
   return fewerKittens
 }
+
+function removeFirstKitten(Milo) {
+  const byeMilo = kittens.slice(0)
+  return byeMilo
+}
