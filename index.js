@@ -32,6 +32,6 @@ function removeLastKitten(Garfield) {
 }
 
 function removeFirstKitten(Milo) {
-  const byeMilo = kittens.slice(0)
+  const byeMilo = kittens.slice(1)
   return byeMilo
 }
